@@ -6,7 +6,7 @@ import CurrentWeather from './components/CurrentWeather';
 import ForecastList from './components/ForecastList';
 import Loader from './components/Loader';
 
-const API_KEY = '1262c1b6a22a49b31e31f99bca7e927c';
+const API_KEY = '9a971ce1dc8fe614aa09980420e4c0a6';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 export default function App() {
